@@ -102,7 +102,7 @@ JsonPowerDB is a high-performance NoSQL database designed for real-time applicat
 ## Other Information
 - Developer: Sahil Gupta
 - Contact: sahilgupta2success@gmail.com
-- GitHub: 
+- GitHub: https://github.com/Sahil190302
 - JsonPowerDB is a product of [Login2Explore](http://login2explore.com).
 
 ---
